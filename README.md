@@ -39,7 +39,7 @@ body {
 
 [![Anurag's github stats](https://github-readme-stats.almost-infinite.vercel.app/api?username=Almost-Infinite)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://i.pinimg.com/originals/c0/d3/c0/c0d3c04f52dbebb886cbf8e34b229df4.jpg" id="imgT">
+<img src="https://i.pinimg.com/originals/c0/d3/c0/c0d3c04f52dbebb886cbf8e34b229df4.jpg" id="imgT" style="width:100%;height:100%;position:fixed;top:1%;z-index: -1;">
 
 [![Top Langs](https://github-readme-stats.almost-infinite.vercel.app/api/top-langs/?username=Almost-Infinite)](https://github.com/anuraghazra/github-readme-stats)
 
